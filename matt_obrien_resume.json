@@ -1,12 +1,12 @@
-
 {
   "name": "Matt O'Brien",
   "email": "maobrien11235@gmail.com",
-  "resume": "www.example.com/your-resume.pdf",
+  "resume": "https://github.com/maobrien11235/POST_practice/blob/main/Resume%20-%20Matt%20O'Brien.pdf",
   "phone": "678-654-6521",
-  "job_id": "<Job ID>", // Found in the URL of a job posting.
+  "job_id": "56a6af92-f141-4ccf-a0eb-f543b79a2f41",
   "github": "github.com/maobrien11235",
   "website": "https://www.linkedin.com/in/matthewaobrien/",
   "favorite animal": "my greyhound Elle",
-  "superpower": "building products despite roadblocks" // optional
+  "superpower": "building products despite roadblocks",
+  "last thing i learned": "That I set up a survival analysis project incorrectly."
 }
